@@ -1,0 +1,16 @@
+{
+  "name": "patanor-site",
+  "version": "0.1.0",
+  "description": "Glasswing's Personal Website",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " <glasswings363@pm.me>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
