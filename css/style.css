@@ -1,0 +1,45 @@
+/*
+ * SPDX-FileCopyrightText: 2022 Glasswings
+ *
+ * SPDX-License-Identifier: AGPL-3.0-or-later
+ */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    background-color: #041418;
+    color: #c6b79a;
+}
+
+a {
+    color: aqua;
+}
+
+header {
+    background-color: black;
+    padding: 2.5rem;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: baseline;
+    gap: 3rem;
+    justify-content: space-around;
+}
+
+section.main {
+    left: 0;
+    right: 0;
+}
+main {
+    margin: auto;
+    margin-top: 1rem;
+    padding: 1rem;
+    max-width: 65rem;
+}
+
+main * {
+    margin-top:1.5ex;
+    font-size:1.4rem;
+}

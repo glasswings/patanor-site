@@ -3,7 +3,7 @@ SPDX-FileCopyrightText: 2022 Glasswings
 SPDX-License-Identifier: CC-BY-4.0
 
 title: 'Glasswings in Patanor'
-layout: 'layouts/home.html'
+layout: 'layout/home.html'
 
 ---
 
