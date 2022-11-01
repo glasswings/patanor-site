@@ -16,6 +16,16 @@ ideas, but most of all a place for me to muse about what I've
 been learning and dreaming.  My sincerest hope is that my words
 can be an inspiration to you.
 
--   [tech](/tech) my technology notes and thoughts
+-   Here
 
--   [/now](/now) what I'm passionate about now
+    -   [tech](/tech) blog of technology and learning
+
+    -   [/now](/now) what I'm passionate about now
+
+-   There
+
+    -   [Github](https://github.com/glasswings) my free software
+        and contributions
+    
+    -   [ツイッター](https://twitter.com/glasswings363)
+        言語自習とか、今は休憩
