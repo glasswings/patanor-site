@@ -28,6 +28,16 @@ header {
     justify-content: space-around;
 }
 
+footer {
+    background-color: black;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    padding: 0.3rem;
+}
+
 section.main {
     left: 0;
     right: 0;
