@@ -8,9 +8,8 @@ layout: 'layouts/home.html'
 ---
 
 Hi, I'm Glasswings, a tourmaline elemental fascinated by human
-languages and storytelling.  Sometimes I pretend to be human, but
-wow, that can be awfully expensive.  I'm currently teaching
-myself web technologies for fun, self-expression and barter.
+languages and storytelling.  Sometimes I pretend to be human.
+I'm currently teaching myself web technologies. 
 
 This site is a place for me to explore JAMstack and IndieWeb
 ideas, but most of all a place for me to muse about what I've
