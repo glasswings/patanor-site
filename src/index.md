@@ -19,10 +19,4 @@ can be an inspiration to you.
 
 -   [tech](/tech) my technology notes and thoughts
 
--   [人語探検](/jingo-tanken) is my love-letter to languages and
-    the storytelling instinct.  英語も日本語も述べましょう
-
--   [cool links](/cool) I've found, especially ones
-    that seem unloved by the usual algorithms
-
 -   [/now](/now) what I'm passionate about now
