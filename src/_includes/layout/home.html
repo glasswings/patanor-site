@@ -17,5 +17,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   <section class="main">
     <main>{{ content | safe }}</main>
   </section>
+  <footer>
+    Copyright {{ 'SPDX-FileCopyrightText' | getVar }}
+    {{ 'SPDX-License-Identifier' | getVar }}
+  </footer>
 </body>
 </html>

@@ -4,6 +4,9 @@
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("css/*.css");
+    eleventyConfig.addNunjucksFilter("getVar", function(name) {
+        return this.ctx[name];
+    });
     return {
         markdownTemplateEngine: 'njk',
         dataTemplateEngine: 'njk',
