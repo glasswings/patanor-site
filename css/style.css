@@ -18,6 +18,18 @@ a {
     color: #44A091;
 }
 
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction:column;
+}
+section.main {
+    flex: 1;
+    left: 0;
+    right: 0;
+}
 header {
     background-color: black;
     color: #4D47B9;
@@ -30,23 +42,19 @@ header {
 }
 
 footer {
+    flex-shrink: 0;
     background-color: black;
     color: #5781B3;
     left: 0;
     right: 0;
     bottom: 0;
-    position: fixed;
     text-align: center;
     padding: 0.3rem;
 }
 
-section.main {
-    left: 0;
-    right: 0;
-}
 main {
     margin: auto;
-    margin-top: 1rem;
+    padding-top: 2rem;
     padding: 1rem;
     max-width: 65rem;
 }
