@@ -10,16 +10,17 @@
 }
 
 :root {
-    background-color: #041418;
-    color: #c6b79a;
+    background-color: #0E1D30;
+    color: #CAAA76;
 }
 
 a {
-    color: aqua;
+    color: #44A091;
 }
 
 header {
     background-color: black;
+    color: #4D47B9;
     padding: 2.5rem;
     display: flex;
     flex-flow: row wrap;
@@ -30,6 +31,7 @@ header {
 
 footer {
     background-color: black;
+    color: #5781B3;
     left: 0;
     right: 0;
     bottom: 0;
