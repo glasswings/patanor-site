@@ -4,6 +4,7 @@
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("css/*.css");
+    eleventyConfig.addPassthroughCopy("font/*.woff");
     eleventyConfig.addNunjucksFilter("getVar", function(name) {
         return this.ctx[name];
     });
