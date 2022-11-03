@@ -31,6 +31,7 @@ section.main {
     left: 0;
     right: 0;
 }
+
 header {
     background-color: black;
     color: #5781B3;
@@ -38,6 +39,15 @@ header {
     border-bottom: 1px;
     border-color: #4D47B9;
     border-style: solid;
+    padding: 0.8rem;
+    padding-left: max(7.5vw, 50vw - 38rem);
+    padding-right: 7.5vw;
+}
+header h1 {
+    font-family: IslandMoments-Regular, monospace;
+    font-size: 4.4rem;
+}
+header.siteBanner {
     font-size: 2.2rem;
     font-family: IslandMoments-Regular, monospace;
     padding: 2.5rem;
