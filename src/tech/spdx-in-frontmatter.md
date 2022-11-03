@@ -3,7 +3,7 @@ SPDX-FileCopyrightText: 2022 Glasswings
 SPDX-License-Identifier: CC-BY-4.0
 
 title: 'How to Use SPDX Tags in Eleventy Front Matter'
-layout: 'layout/home.html'
+layout: 'layout/main.html'
 
 ---
 
