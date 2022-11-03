@@ -1,29 +1,6 @@
-<!DOCTYPE html>
 <!--
 Template copyright:
 SPDX-FileCopyrightText: 2022 Glasswings
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-<html><head>
-    <meta charset="UTF-8">        
-    <title>{{ title }}</title>
-    <link rel="stylesheet" href="/css/fonts.css">
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-  <header>
-    <h1>Patanor</h1>
-    <h2>{{ title }}</h2>
-  </header>
-  <section class="main">
-    <main>
-
-{{ content | safe }}
-    </main>
-  </section>
-  <footer>
-    Copyright {{ 'SPDX-FileCopyrightText' | getVar }}
-    {{ 'SPDX-License-Identifier' | getVar }}
-  </footer>
-</body>
-</html>
+{% extends "layout/page.html" %}
