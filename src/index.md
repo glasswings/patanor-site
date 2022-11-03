@@ -8,24 +8,18 @@ layout: 'layout/home.html'
 ---
 
 Hi, I'm Glasswings, a tourmaline elemental fascinated by human
-languages and storytelling.  Sometimes I pretend to be human.
-I'm currently teaching myself web technologies. 
+languages and storytelling.  For a long time I could only
+evesdrop on bits of conversation and campfire tales, until
+someone buried a fiber line through my home.  I started listening
+to the speech of machines, which then put me in touch with a far
+greater variety of people.  And I love that.
 
-This site is a place for me to explore JAMstack and IndieWeb
-ideas, but most of all a place for me to muse about what I've
-been learning and dreaming.  My sincerest hope is that my words
-can be an inspiration to you.
+In time I found myself wanting to join conversations and to spin
+tales.  I learned to pretend to be human and decided to polish my
+programming skills.  This site is my front porch, built from the
+ground up in HTML5/CSS3 with a little help from Eleventy, where I
+share my [thoughts about technology](/tech).
 
--   Here
-
-    -   [tech](/tech) blog of technology and learning
-
-    -   [/now](/now) what I'm passionate about now
-
--   There
-
-    -   [Github](https://github.com/glasswings) my free software
-        and contributions
-    
-    -   [ツイッター](https://twitter.com/glasswings363)
-        言語自習とか、今は休憩
+<!-- I also have an unprofessional home site in contrast to the
+creative business-casual tone here. -->
+<link rel="me authn nofollow" href="https://patanor.neocities.org/">
