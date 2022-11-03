@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "CharisSIL-Regular";
+    src:
+        url("/font/CharisSIL-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: "IslandMoments-Regular";
+    src:
+        url("/font/IslandMoments-Regular.woff") format("woff");
+}

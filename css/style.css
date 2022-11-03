@@ -10,16 +10,32 @@
 }
 
 :root {
-    background-color: #041418;
-    color: #c6b79a;
+    background-color: #0E1D30;
+    color: #CAAA76;
 }
 
 a {
-    color: aqua;
+    color: #44A091;
 }
 
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction:column;
+    font-family: CharisSIL-Regular, serif;
+}
+section.main {
+    flex: 1;
+    left: 0;
+    right: 0;
+}
 header {
     background-color: black;
+    color: #4D47B9;
+    font-size: 2.2rem;
+    font-family: IslandMoments-Regular, monospace;
     padding: 2.5rem;
     display: flex;
     flex-flow: row wrap;
@@ -29,22 +45,19 @@ header {
 }
 
 footer {
+    flex-shrink: 0;
     background-color: black;
+    color: #5781B3;
     left: 0;
     right: 0;
     bottom: 0;
-    position: fixed;
     text-align: center;
     padding: 0.3rem;
 }
 
-section.main {
-    left: 0;
-    right: 0;
-}
 main {
     margin: auto;
-    margin-top: 1rem;
+    padding-top: 2rem;
     padding: 1rem;
     max-width: 65rem;
 }
