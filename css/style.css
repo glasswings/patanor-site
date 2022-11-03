@@ -33,7 +33,11 @@ section.main {
 }
 header {
     background-color: black;
-    color: #4D47B9;
+    color: #5781B3;
+    border: 0;
+    border-bottom: 1px;
+    border-color: #4D47B9;
+    border-style: solid;
     font-size: 2.2rem;
     font-family: IslandMoments-Regular, monospace;
     padding: 2.5rem;
