@@ -11,11 +11,11 @@ Today's project is updating the site to comply with the AGPL by
 default.
 
 ---
-This isn't something I had to do immediately; I'm currently the
-only author of the templates and can do whatever I want with my
-work.  But I feel it's important to set a good example: the site
-currently doesn't even link to GitHub and that would be the
-minimum if someone else mirrors it.
+This isn't something I had to do immediately; I'm currently
+the only author of the templates and can do whatever I want with
+my work.  But I feel it's important to set a good example: the
+site didn't even link to GitHub.  If someone else links it,
+that's the minimum effort I'd like from them.
 
 In my opinion the most polite options for source code availability (AGPL
 Section 6) for web templates would be
@@ -25,8 +25,6 @@ Section 6) for web templates would be
 
 - linking to a public git server that contains the corresponding
   source
-
-(These are variations of 6d, first party and third party.)
 
 Embedding a tarball is an interesting technical challenge, but
 for today my goals are:
@@ -39,3 +37,10 @@ for today my goals are:
   downstream user should link to their own server or tarball
 
 - update my footers to advertise the source
+
+This doesn't quite finish copyright-related stuff.  I still need
+to figure out how I'll show copyright notices for blog content,
+which will be a bit different between permalink pages and ones
+that combine multiple posts. 
+
+But I've decided that can wait until I create navigation.
