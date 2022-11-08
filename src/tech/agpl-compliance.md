@@ -7,7 +7,7 @@ title: 'AGPL Compliance: Serving the Source'
 layout: 'layout/main.html'
 
 ---
-Today's project is updating the site to comply with the AGPL by
+Today's project was updating the site to comply with the AGPL by
 default.
 
 ---
@@ -27,7 +27,7 @@ Section 6) for web templates would be
   source
 
 Embedding a tarball is an interesting technical challenge, but
-for today my goals are:
+for today my goals were:
 
 - link to my GitHub
 
@@ -38,9 +38,9 @@ for today my goals are:
 
 - update my footers to advertise the source
 
-This doesn't quite finish copyright-related stuff.  I still need
-to figure out how I'll show copyright notices for blog content,
-which will be a bit different between permalink pages and ones
-that combine multiple posts. 
+This didn'tdoesn't quite finish copyright-related stuff.  I still
+need to figure out how I'll show copyright notices for blog
+content, which will be a bit different between permalink pages
+and ones that combine multiple posts. 
 
 But I've decided that can wait until I create navigation.
